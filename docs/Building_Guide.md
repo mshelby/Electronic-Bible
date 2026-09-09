@@ -163,3 +163,5 @@ docker run -d --name electronic-bible electronic-bible
 - [Design Decisions](Design_Decisions.md)
 - [Hardware Specifications](Hardware_Specifications.md)
 - [Software Architecture](Software_Architecture.md)
+- [Building Guide](Building_Guide.md)
+```
