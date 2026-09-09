@@ -102,3 +102,4 @@ Components communicate via an event bus:
 - Local network only (no external API calls)
 - No telemetry or data collection
 - Encrypted database sync
+```
